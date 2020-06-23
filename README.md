@@ -1,2 +1,1 @@
-# React-Quiz
-Basic quiz app in react
+React Bare Bones Starter Kit

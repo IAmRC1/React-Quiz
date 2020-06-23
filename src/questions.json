@@ -1,0 +1,107 @@
+[
+  {
+    "question": "Why so JavaScript and Java have similar name?",
+    "answers": [
+      {
+        "point": 0,
+        "label": "JavaScript is a stripped-down version of Java"
+      },
+      {
+        "point": 1,
+        "label": "JavaScript's syntax is loosely based on Java's"
+      },
+      {
+        "point": 0,
+        "label": "They both originated on the island of Java"
+      },
+      {
+        "point": 0,
+        "label": "None of the above"
+      }
+    ]
+  },
+  {
+    "question": "When a user views a page containing a JavaScript program, which machine actually executes the script?",
+    "answers": [
+      {
+        "point": 1,
+        "label": "The User's machine running a Web browser"
+      },
+      {
+        "point": 0,
+        "label": "The Web server"
+      },
+      {
+        "point": 0,
+        "label": "A central machine deep within Netscape's corporate offices"
+      },
+      {
+        "point": 0,
+        "label": "None of the above"
+      }
+    ]
+  },
+  {
+    "question": "______ JavaScript is also called client-side JavaScript.",
+    "answers": [
+      {
+        "point": 0,
+        "label": "Microsoft"
+      },
+      {
+        "point": 0,
+        "label": "Navigator"
+      },
+      {
+        "point": 1,
+        "label": "LiveWire"
+      },
+      {
+        "point": 0,
+        "label": "Native"
+      }
+    ]
+  },
+  {
+    "question": "What are variables used for in JavaScript Programs?",
+    "answers": [
+      {
+        "point": 1,
+        "label": "Storing numbers, dates, or other values"
+      },
+      {
+        "point": 0,
+        "label": "Varying randomly"
+      },
+      {
+        "point": 0,
+        "label": "Causing high-school algebra flashbacks"
+      },
+      {
+        "point": 0,
+        "label": "None of the above"
+      }
+    ]
+  },
+  {
+    "question": "Which of the following is true about typeof operator in JavaScript?",
+    "answers": [
+      {
+        "point": 0,
+        "label": "The typeof is a unary operator that is placed before its single operand, which can be of any type."
+      },
+      {
+        "point": 0,
+        "label": "Its value is a string indicating the data type of the operand."
+      },
+      {
+        "point": 1,
+        "label": "Both of the above."
+      },
+      {
+        "point": 0,
+        "label": "None of the above"
+      }
+    ]
+  }
+]
